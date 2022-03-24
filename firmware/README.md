@@ -2,6 +2,8 @@
 
 # NOTE:  Uses at your own risk
 
+# New Procedure:  https://youtu.be/yZ9Bxln1qOU
+
 
 #### x6100_ui_v100.TXOpen - TX on every frequency this radio is able to
 #### x6100_ui_v100.TXOpen10w_Bat - Open TX with 10w output from the internal battery
